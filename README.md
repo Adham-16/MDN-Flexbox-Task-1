@@ -1,2 +1,2 @@
-# MDN-Flexbox-Task-1
-MDN-Flexbox-Task 1 Test your skills: Flexbox
+# MDN-Flexbox-Tasks
+MDN-Flexbox-Tasks Test your skills: Flexbox
